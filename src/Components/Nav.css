@@ -1,0 +1,39 @@
+.custom-nav{
+	position: absolute;
+	width: 100%;
+	height: 56px;
+	background-color: #191919;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px;
+	top: 0;
+	left: 0;
+	right: 0;
+	display: flex;
+	align-items: center;
+}
+
+.custom-nav a{
+	font-family: HelveticaNeue-Bold;
+	font-size: 16px;
+	float: left;
+	color: #9B9B9B ;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	
+	
+}
+
+.custom-nav .title{
+	font-family: HelveticaNeue-Bold;
+	font-size: 20px;
+	color: #FFFFFF;
+}
+
+.custom-nav .title:hover{
+	text-decoration: none;
+}
+
+a:hover{
+	border-bottom: 1px solid white;
+}
