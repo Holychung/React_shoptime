@@ -1,0 +1,27 @@
+.order-title{
+	font-family: HelveticaNeue-Bold;
+	font-size: 24px;
+	color: black;
+}
+.order-time{
+	font-family: HelveticaNeue;
+	color: #9B9B9B;
+	font-size: 16px;
+}
+.order-person{
+	font-family: HelveticaNeue;
+	color: #9B9B9B;
+	font-size: 16px;
+}
+.order-total{
+	font-family: HelveticaNeue;
+	font-size: 22px;
+	color: black;
+	margin-left: 90px;
+}
+.order-num{
+	font-family: HelveticaNeue-Bold;
+	font-size: 28px;
+	color: black;
+	margin-left: 110px;
+}

@@ -1,0 +1,35 @@
+.product-content{
+	position: relative;
+	background-color: #f2f2f2;
+	width: 85%;
+	height: 1000px;
+	top: 100px;
+	margin: 0 auto;
+	text-align: center;
+}
+.product-title span{
+	text-align: left;
+}
+.add-product{
+	width: 200px;
+	height: 36px;
+	font-family: HelveticaNeue-Bold;
+	background-color: black;
+	color: white;
+	font-size: 14px;
+	border-radius: 4px;
+	margin-left: 865px;
+}
+.first-row{
+	width: 85%;
+}
+.modal-dialog{
+	max-width: 1152px;
+}
+.transparent{
+	background-color: transparent;
+}
+.btn-select{
+	background-color: transparent;
+	color: black;
+}

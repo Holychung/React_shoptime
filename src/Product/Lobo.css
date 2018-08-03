@@ -1,0 +1,15 @@
+.product-item-3{
+	font-family: HelveticaNeue;
+	color: black;
+	font-size: 16px;
+	background-color: #f2f2f2;
+	height: 260px;
+}
+.btn-unpublished:hover, .dropdown-toggle.btn-unpublished{
+	color: white;
+	background-color: #9b9b9b;
+	border-color: #9b9b9b;
+ }
+.product-item-3 .dropdown-toggle{
+	margin-top: 145px;
+}

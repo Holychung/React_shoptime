@@ -9,6 +9,7 @@
 	left: 0;
 	right: 0;
 	display: flex;
+	flex-direction: row;
 	align-items: center;
 }
 
@@ -20,20 +21,24 @@
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
-	
-	
 }
 
 .custom-nav .title{
 	font-family: HelveticaNeue-Bold;
 	font-size: 20px;
 	color: #FFFFFF;
-}
-
-.custom-nav .title:hover{
-	text-decoration: none;
+	padding: 20px;
+	padding-left: 140px; 
 }
 
 a:hover{
 	border-bottom: 1px solid white;
+}
+
+.admin{
+	display: flex;
+	font-family: HelveticaNeue-Bold;
+	font-size: 16px;
+	color: white;
+	padding-left: 700px;
 }

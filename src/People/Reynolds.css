@@ -1,0 +1,16 @@
+.order-item-4{
+	color: #9B9B9B;
+	font-size: 16px;
+	background-color: #ebebeb;
+	height: 170px;
+	text-decoration: line-through;
+}
+.btn-done:hover, .dropdown-toggle.btn-done {
+	color: white;
+	background-color: #4A90E2;
+	border-color: #4A90E2;
+ }
+.order-item-4 label{
+	color: #9B9B9B;
+	text-decoration: line-through;
+}

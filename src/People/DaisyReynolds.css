@@ -1,0 +1,11 @@
+.order-item-6{
+	color: #9B9B9B;
+	font-size: 16px;
+	background-color: #f2f2f2;
+	height: 170px;
+}
+.btn-unpaid:hover, .dropdown-toggle.btn-unpaid {
+	color: white;
+	background-color: #9B9B9B;
+	border-color: #9B9B9B;
+ }

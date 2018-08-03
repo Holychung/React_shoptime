@@ -1,0 +1,16 @@
+.title{
+	color: #9B9B9B;
+	font-size: 20px;
+	font-family: HelveticaNeue-Medium;
+}
+
+.price{
+	font-size: 22px;
+	font-family: HelveticaNeue-Medium;
+}
+
+.percent{
+	color: #7ED321;
+	font-size: 22px;
+	font-family: HelveticaNeue-Medium;
+}

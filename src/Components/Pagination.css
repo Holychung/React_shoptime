@@ -1,0 +1,8 @@
+.page-link{
+	color: black;
+}
+.page-link:hover{
+	color: white;
+	border-color: black;
+	background-color: black;
+}

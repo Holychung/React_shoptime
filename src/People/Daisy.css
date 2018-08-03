@@ -1,0 +1,20 @@
+.order-item-3{
+	font-family: HelveticaNeue;
+	color: black;
+	font-size: 16px;
+	background-color: #f2f2f2;
+	height: 240px;
+}
+.btn-shipping{
+	background-color: #F5A623;
+	border-color: #F5A623;
+}
+.btn-shipping:hover, .dropdown-toggle.btn-shipping {
+	color: white;
+	background-color: #F5A623;
+	border-color: #F5A623;
+ }
+.dropdown-item:hover{
+	color: white;
+	background-color: black;
+}

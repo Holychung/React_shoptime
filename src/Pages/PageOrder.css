@@ -1,0 +1,27 @@
+.checkbox{
+	position: absolute;
+	top: 70px;
+	left: 160px;
+	border-color: black;
+}
+.order-menu{
+	position: relative;
+	background-color: #f2f2f2;
+	width: 85%;
+	height: 1000px;
+	top: 100px;
+	margin: 0 auto;
+	text-align: center;
+}
+.custom-title span{
+	font-family: HelveticaNeue-Bold;
+	color: #000000;
+	font-size: 18px;
+}
+.btn-transparent{
+	background-color: transparent;
+	color: black;
+	font-family: HelveticaNeue-Bold;
+	font-size: 16px;
+	left: 975px;
+}

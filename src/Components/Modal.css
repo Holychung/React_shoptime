@@ -1,0 +1,46 @@
+.modal-content{
+	height: 700px;
+	margin: auto;
+}
+.modal-header{
+	background-color: black;
+	color: white;
+	font-family: HelveticaNeue-Bold;
+	font-size: 22px;
+	height: 67px;
+}
+.upload{
+	background-color: #ebebeb;
+	height: 200px;
+	border-radius: 4px;
+}
+.modal-body .title{
+	font-family: HelveticaNeue-Bold;
+	color: #373A3C;
+	font-size: 20px;
+}
+.origin-price{
+	width: 100px;
+}
+.btn.new-spec{
+	background-color: black;
+	color: white;
+	font-family: HelveticaNeue-Bold;
+	font-size: 16px;
+}
+.btn.save{
+	background-color: white;
+	color: #757575;
+	font-family: HelveticaNeue-Bold;
+	font-size: 16px;
+}
+.btn.publish{
+	width: 100px;
+	background-color: black;
+	color: white;
+	font-family: HelveticaNeue-Bold;
+	font-size: 16px;
+}
+.fa-cloud-upload-alt{
+	width: 200px;
+}

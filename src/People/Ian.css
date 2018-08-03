@@ -1,0 +1,27 @@
+.custom-title{
+	background-color: white;
+	height: 60px;
+	border-radius: 4px;
+}
+.order-item{
+	font-family: HelveticaNeue;
+	color: black;
+	font-size: 16px;
+	background-color: #f2f2f2;
+	height: 170px;
+}
+hr{
+	border: 0.5px solid #FFFFFF;
+}
+.product{
+	text-align: left;
+}
+.btn-paid:hover, .dropdown-toggle.btn-paid {
+	color: white;
+	background-color: #7ED321;
+	border-color: #7ED321;
+}
+.dropdown-item:hover{
+	color: white;
+	background-color: black;
+}
