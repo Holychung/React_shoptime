@@ -5,6 +5,8 @@ import Order from '../Components/Order'
 import DrawChart from '../Components/DrawChart'
 import './Home.css'
 
+import Button from '@material-ui/core/Button';
+
 class Home extends React.Component{
   render(){
     return(
